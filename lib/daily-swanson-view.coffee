@@ -10,7 +10,7 @@ class DailySwansonView
     # Create Image
     img = document.createElement('img')
     img.classList.add('img')
-    img.src = 'http://actionflickchick.com/superaction/wp-content/uploads/2014/09/b99165123z.1_20131217190755_000_gib401il.1-1.jpg'
+    img.src = 'https://github.com/walexnelson/daily-swanson/blob/master/resources/swanson.jpg?raw=true'
     @element.appendChild(img)
 
     # Create Caption
