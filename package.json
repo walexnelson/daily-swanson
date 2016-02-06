@@ -2,13 +2,13 @@
   "name": "daily-swanson",
   "main": "./lib/daily-swanson",
   "version": "0.0.0",
-  "description": "A short description of your package",
+  "description": "Daily dose of Ron Swanson",
   "keywords": [
   ],
   "activationCommands": {
     "atom-workspace": "daily-swanson:toggle"
   },
-  "repository": "https://github.com/atom/daily-swanson",
+  "repository": "https://github.com/walexnelson/daily-swanson",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
